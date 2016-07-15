@@ -1,0 +1,151 @@
+SUMMER PROJECT NOTES
+
+ADOLESCENT RENNAISSANCE
+
+MIDDLE SCHOOL RENNAISANCE
+
+Collect things
+relive childhood fantasies
+
+
+psylocke gif
+toys
+action figures
+insecurity
+
+
+
+
+
+----------------------
+ARtificial Neural Networks
+------------------------
+
+Take samples of patterns from an image, say for instance a 1280x720 pixel image, sampled for every 2x2 square, then 4x4, 16x16, etc.
+
+These samples are archived into a library.
+
+Input image is sampled and compared starting with the largest pixel sample size.  it is compared to the library of samples.  if the largest one finds a match, it is superimposed in that spot.   if one cannot be found above a certain threshold, it then searches for smaller samples.  there is a threshold for similarity in pixel values and arrangements.  also, each pixel can be layered any number of times, with each layer having an equal opacity with the other layers. 
+
+the rare large superimposed matches will stand out, similar to some kind of deja vu, a memory pattern that is similar enough to trigger a match despite being of a different origin.  
+
+"all members of this ethnicity look the same to me, because the sample size of my observations of them is small"  the larger the samples, the less similar people look?  or maybe there is a greater likelihood that someonme looks like someone else or unlikely combinations emerge.
+
+
+
+-----------------
+BOOK
+----------------
+
+page with numbered thumbnails of the all images, second page listing the locations
+background changes color from twilight to black for night
+rear index listing all the locations
+world map with dots indicating locations - circles with scale representing number of photos taken in that location
+
+multiple subtle data vizualizations
+
+
+photothreads:
+java
+tokyo
+honolulu
+denver?
+san diego
+
+TO DO
+-check old phone for writing related to night
+-check twitter for relevant tweets
+
+NOTES NIGHT
+
+8.5x8.5
+top, bottom, outside 0.125
+168 pages * .002347 = 0.394296 spine
+
+
+-an ode to darkness, the freedom of the void, solipsistic fantasies
+
+---can only see the past from the present... - more difficult to dissect the more layered it becomes
+---after most have retreated to their caves and their beds, you feel a bit larger in the world, as if your consciousness suddenly occupies space and can exercise its desires upon the world
+	-pressure released by those absent minds allows one to expand, filling the void with self
+---think clearly, concentrate, feel awake
+-appreciating night as an act of rebellion, an acknowledgement of difference, distinction
+-free flowing creativity
+-less social pressure, dance in the streets
+-edgy, dangerous, mysterious, time of romance and flirtation
+-night bokeh
+-daytime is predictable, tedious and known... alien, inspiring resentment, stimulant requiring
+-the morning after waking is constant disappointment involving hazy thoughts, unclear objectives, ...the time before existance, pre-creation, before God could recognize the figure in the mirror.
+	-consciousness requires the entirety of the day to recover, slowly building before being broken down again by necessary slumber
+		-sisyphisian
+	-night is the time of social outliers, those labelled as deviant, alternative, those that reject cultural norms and impressed identities, those that reject society and those that have been rejected, those that flee from living and life as known by the broader social consensus
+
+--background information::
+	-sleeping disorder
+	-childhood spent staying up in bed after bedtime, fantasizing about possibilities, the imagination freed by the night
+		-sneaking to the staircase
+		-playing w/stuff animals
+	-all nighters in high school
+	-7 am breakfast in college
+	-dark winters that confuse circadian rhythm
+
+-research into "night owls," "B society"
+	-intelligence, creativity feeding the attainment of identity to the night... vanity of quasi-self reflective research data
+-reflection
+
+-passive vs. active - andy conversation... documentarian vs. model shoot
+-all about the cycle between day and night.  
+-NYC night quiet wouldnt be the same without the stimulating daytime environment
+-non-linear, not about what happens over time, but what happens *at time*, *across time*
+
+
+All my life, ive been searching for an abstract freedom, not just freedom in whi h to act, but also freedom from influence.  The quietness of night provides respite from the debilitatingly hectic daytime world, further strengthened by the bitterness of those that thrive on the typical circadian rhythms, those that force their "business hours" upon the world.
+
+The night is dancing in the street.
+The night is contemplation,              observation and revelation.  The night is a sanctuary of independent clarity, a time to work, a time for creativity.
+
+
+Too much night?  Vitamin D deficiencies and loneliness.  It is easy to forget their importance while reveling in darkness and refuge.
+
+The nighr is taking your time, walking s
+
+Slowly, influenced only by the panic of knowing how little sleep lies before the next day, the morning always coming too early.
+
+
+dark defined by absence of light, freedom of imagination
+
+==================
+Night films
+
+Lost in translation
+Hk movie
+Enter the void
+Dark city
+after dark (book)
+====================
+
+maybe include:
+
+a universe in which all lines converge upon the viewer, a world created from the inside out
+divergent perspective, exploration as an act of divine creativity
+"Life can only be understood backwards; but it must be lived forwards."
+"The attraction of intoxication was the power it gave you over objects."
+In a vacuum, I am a perfect circle.
+"The cure for boredom is curiosity.  There is no cure for curiosity."—Dorothy Parker
+surrender to nox
+absurdity, semiotics of nihilism
+physical space is defined negatively through difference, existing nowhere
+Difference creates dimension, the third pulled from the first two.
+dark and absurd often mix well
+
+
+home is a place to feel free
+"Familiarity breeds contempt only when it breeds inattention."
+body as prison for the imagination
+"Pictures that we find 'realistic' are simply those we can read most fluently"
+That which is without record does not exist.
+one becomes blind when they stop seeking beauty
+
+Alec McClure is an Assistant Professor in the Media Design Programs at Hostos Community College.
+
+page numbers only on right pages
